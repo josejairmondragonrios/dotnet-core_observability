@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JC/WHhfqbzHQuuWxFxNyySMK0KR/0T9IjcUmxSPdyiQ=",
+  "Source": "telemetric.API",
+  "BasePath": "_content/telemetric.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
